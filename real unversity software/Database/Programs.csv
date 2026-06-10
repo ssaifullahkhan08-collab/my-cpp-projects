@@ -1,0 +1,74 @@
+P. ID,D. ID,Program Name,Seats
+100,1,None,0
+101,1,B.Ed (Hons),60
+102,1,B.Ed (1.5 year),60
+103,1,BBA (Hons),60
+104,1,BS Islamic Banking and Finance,60
+105,1,BS Digital Marketing,60
+106,1,BS Accounting and Finance,60
+107,1,BS Business Analytics,60
+108,1,BS Development Studies,60
+109,1,BS Economics,60
+110,1,BS Psychology,60
+111,1,BS Sociology,60
+112,1,BS Criminology,60
+113,1,BS Peace and Conflict Studies,60
+114,1,BS Tourism and Hospitality,60
+115,1,BS Culinary Art,60
+116,1,BS Archaeology,60
+117,1,BS Pakistan Studies,60
+118,1,BS Media & Communication Studies,60
+200,2,None,0
+201,2,BS Chemistry,60
+202,2,BS Environmental Sciences,60
+203,2,BS Disaster Preparedness and Climate Change,60
+204,2,BS Geology,60
+300,3,None,0
+301,3,LL.B Law and Shariah (5 Year),60
+302,3,BS Islamic Studies,60
+203,3,LL.B (4 Year),60
+400,4,None,0
+401,4,BS Biotechnology,60
+402,4,BS Botany,60
+403,4,BS Fisheries and Aquaculture,60
+404,4,BS Forensic Science,60
+405,4,BS Forestry,60
+406,4,BS Genetics,60
+407,4,BS Forensic Science,60
+408,4,BS Forestry,60
+409,4,BS Genetics,60
+410,4,BS Microbiology,60
+411,4,BS Zoology,60
+500,5,None,0
+501,5,BS English,60
+502,5,BS Urdu,60
+503,5,BS Pashto,60
+600,6,None,0
+601,6,BS Medical Laboratory Technology,60
+602,6,BS Dental Technology,60
+603,6,Doctor of Physical Therapy,60
+604,6,BS Radiography and Imaging Technology,60
+605,6,BS Radiography and Imaging Technology,60
+700,7,None,0
+701,7,BS Physics,60
+702,7,BS Computer Science,60
+703,7,BS information Technology,60
+704,7,BS Software Engineering,60
+705,7,BS Artificial Intelligence,60
+706,7,BS Data Science,60
+707,7,BS Software Engineering,60
+708,7,BS Artificial Intelligence,60
+709,7,BS Data Science,60
+710,7,BS Mathematics,60
+711,7,BS Matheratical Data Science,60
+712,7,BS Statistics,60
+800,8,None,0
+801,8,BS Botany,60
+802,8,BS Psychology,60
+803,8,BS Zoology,60
+804,8,BS Home Economics,60
+805,8,BS English,60
+806,8,BS Computer Science,60
+807,8,BS Home Economics,60
+808,8,BS English,60
+809,8,BS Computer Science,60
